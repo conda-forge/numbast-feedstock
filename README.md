@@ -26,7 +26,14 @@ Current build status
 ====================
 
 
-<table>
+<table><tr>
+    <td>GitHub Actions</td>
+    <td>
+      <a href="https://github.com/conda-forge/numbast-feedstock/actions/workflows/conda-build.yml">
+        <img src="https://github.com/conda-forge/numbast-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
+      </a>
+    </td>
+  </tr>
 </table>
 
 Current release info
@@ -154,7 +161,4 @@ Feedstock Maintainers
 * [@conda-forge/cuda-python](https://github.com/orgs/conda-forge/teams/cuda-python/)
 * [@cryos](https://github.com/cryos/)
 * [@isvoid](https://github.com/isvoid/)
-
-
-<!-- dummy commit to enable rerendering -->
 
